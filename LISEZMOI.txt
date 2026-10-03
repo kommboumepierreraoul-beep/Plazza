@@ -1,0 +1,13 @@
+Placez ici les photos des boissons (PNG à fond transparent, de préférence), avec ces noms exacts :
+
+gingembre-bouteille.png   gingembre-verre.png
+ananas-bouteille.png      ananas-verre.png
+bissap-bouteille.png      bissap-verre.png
+citronnade-bouteille.png  citronnade-verre.png
+biere-bouteille.png       biere-verre.png
+eau-bouteille.png         eau-verre.png
+
+- Bouteille : photo de face, de préférence haute et étroite (le haut dépasse du cadre).
+- Verre : photo de face, il s'affiche devant la bouteille.
+- Sans fichier, le dessin de la boisson reste affiché automatiquement.
+- Une photo JPG sur fond blanc fonctionne aussi : le fond blanc est fondu automatiquement.
